@@ -65,6 +65,10 @@ Recently I’ve been working on high-performance animated websites using Dioxus 
 
 <br>
 
+####I try to build systems that reduce friction through technology.  
+
+<br>
+
 ## Interests
 
 - Robust systems inspired by Ada-style safety and verification, implemented in Rust
@@ -84,8 +88,6 @@ Recently I’ve been working on high-performance animated websites using Dioxus 
 - Release of a security-focused Linux distribution    
 
 
-<br><br>
-  I try to build systems that reduce friction through technology.  
 <br><br><br>
 
 ** Thanks to everyone building amazing open-source tools. **
