@@ -63,7 +63,7 @@ Full-stack developer building and operating web, SaaS, and client applications.
 ### Recently I’ve been working on high-performance animated websites using Dioxus and GSAP.
 #### Performance highlights:
 
-- Lighthouse / PageSpeed Insights score **100**
+- Lighthouse / PageSpeed Insights - mobile score **100**
 - LCP ***120** ms* on common browser environments
 
 
