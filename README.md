@@ -47,12 +47,12 @@ Recently I’ve been working on high-performance animated websites using Dioxus 
 - LCP ***120** ms* on common browser environments
 <br>
 
-## Linux ![Linux](https://img.shields.io/badge/linux-000?logo=linux)
+## Linux ![Linux Environment](https://img.shields.io/badge/environment-Linux-000?logo=linux&logoColor=FCC624&style=flat))
   ![NixOS](https://img.shields.io/badge/NixOS-000?logo=Nixos)
-  ![Alpine](https://img.shields.io/badge/alpine-000?logo=alpine-linux)
+  ![Alpine](https://img.shields.io/badge/Alpine-000?logo=alpine-linux)
   ![QubesOS](https://img.shields.io/badge/Qubes-000?logo=qubesos)
   ![Kali](https://img.shields.io/badge/Kali-000?logo=kali-linux)
-  ![BlackArch](https://img.shields.io/badge/blackarch-000?logo=arch-linux)
+  ![BlackArch](https://img.shields.io/badge/BlackArch-000?logo=arch-linux)
   ![TailsOS](https://img.shields.io/badge/Tails-000?logo=tails)
   ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-000?logo=raspberrypi)  
     and others.    
