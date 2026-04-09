@@ -47,7 +47,10 @@ My primary language is Rust, but I’ve also used Julia, Java, JS/PHP, and other
 
 
 ## What I do
-Full-stack developer building and operating web, SaaS, and client applications.  
+Full-stack developer building and operating web, SaaS, and client applications.
+<br>
+#### I try to build systems that reduce friction through technology.
+
 ### Main activities:
 
 - System development in Rust
@@ -63,9 +66,6 @@ Full-stack developer building and operating web, SaaS, and client applications.
 - Lighthouse / PageSpeed Insights score **100**
 - LCP ***120** ms* on common browser environments
 
-<br>
-
-#### I try to build systems that reduce friction through technology.  
 
 <br>
 
