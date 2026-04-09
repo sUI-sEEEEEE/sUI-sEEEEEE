@@ -64,7 +64,7 @@ Full-stack developer building and operating web, SaaS, and client applications.
 #### Performance highlights:
 
 - Lighthouse / PageSpeed Insights - mobile score **100**
-- LCP ***120** ms* on common browser environments
+- LCP ***120** ms* on common browser environments without cache. ( using cache ***42 ms*** !!)
 
 
 <br>
