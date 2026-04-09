@@ -65,7 +65,7 @@ Recently I’ve been working on high-performance animated websites using Dioxus 
 
 <br>
 
-####I try to build systems that reduce friction through technology.  
+#### I try to build systems that reduce friction through technology.  
 
 <br>
 
