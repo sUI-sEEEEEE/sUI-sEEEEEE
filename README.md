@@ -80,7 +80,7 @@ Full-stack developer building and operating web, SaaS, and client applications.
 
 
 ## Upcoming repositories
-- All-in-one CLI productivity toolkit for Linux (Shell + Rust)
+- CLI fs-navigation and productivity tool for Linux (Shell + Rust)
 - Environment-optimized keyboard configuration for developers
 - Small configuration repository for sharing useful settings
 
