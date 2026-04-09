@@ -29,6 +29,23 @@ My primary language is Rust, but I’ve also used Julia, Java, JS/PHP, and other
 
 <br>
 
+## Linux ![Linux Environment](https://img.shields.io/badge/environment-Distro-000?logo=linux&logoColor=FCC624&style=flat)
+  ![NixOS](https://img.shields.io/badge/NixOS-000?logo=Nixos)
+  ![Alpine](https://img.shields.io/badge/Alpine-000?logo=alpine-linux)
+  ![QubesOS](https://img.shields.io/badge/Qubes-000?logo=qubesos)
+  ![Kali](https://img.shields.io/badge/Kali-000?logo=kali-linux)
+  ![BlackArch](https://img.shields.io/badge/BlackArch-000?logo=arch-linux)
+  ![TailsOS](https://img.shields.io/badge/Tails-000?logo=tails)
+  ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-000?logo=raspberrypi)  
+    and others.
+
+
+#### Based on those experiences, I’m currently building my own security-focused Linux distribution.
+<!--
+-->
+<br>
+
+
 ## What I do
 Full-stack developer building and operating web, SaaS, and client applications.  
 ### Main activities:
@@ -39,27 +56,13 @@ Full-stack developer building and operating web, SaaS, and client applications.
 - Building a security-focused Linux distribution (WIP)
 
 <br>
-Recently I’ve been working on high-performance animated websites using Dioxus and GSAP.
 
+Recently I’ve been working on high-performance animated websites using Dioxus and GSAP.
 ### Performance highlights:
 
 - Lighthouse / PageSpeed Insights score **100**
 - LCP ***120** ms* on common browser environments
-<br>
 
-## Linux ![Linux Environment](https://img.shields.io/badge/environment-Distro-000?logo=linux&logoColor=FCC624&style=flat)
-  ![NixOS](https://img.shields.io/badge/NixOS-000?logo=Nixos)
-  ![Alpine](https://img.shields.io/badge/Alpine-000?logo=alpine-linux)
-  ![QubesOS](https://img.shields.io/badge/Qubes-000?logo=qubesos)
-  ![Kali](https://img.shields.io/badge/Kali-000?logo=kali-linux)
-  ![BlackArch](https://img.shields.io/badge/BlackArch-000?logo=arch-linux)
-  ![TailsOS](https://img.shields.io/badge/Tails-000?logo=tails)
-  ![RaspberryPi](https://img.shields.io/badge/RaspberryPi-000?logo=raspberrypi)  
-    and others.    
-
-#### Based on those experiences, I’m currently building my own security-focused Linux distribution.
-<!--
--->
 <br>
 
 ## Interests
@@ -70,6 +73,7 @@ Recently I’ve been working on high-performance animated websites using Dioxus 
 - SaaS development
 - Developer tooling and workflow optimization
 <br>
+
 
 ## Upcoming repositories
 - All-in-one CLI productivity toolkit for Linux (Shell + Rust)
